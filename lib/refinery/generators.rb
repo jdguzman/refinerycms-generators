@@ -1,4 +1,4 @@
-require 'refinerycms-base'
+#require 'refinerycms-base'
 require 'pathname'
 
 require File.expand_path('../generators/engine_installer', __FILE__)
